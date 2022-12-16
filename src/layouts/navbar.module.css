@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+#navbar{
+    background-color: #000000;
+    padding: 10px;
+}
+#navLogo{
+    background-color: #cdcdcd; 
+    border-radius: 5px;
+    color: rgb(233, 160, 50);
+    padding: 5px 10px;
+    padding-bottom: 2px;
+    font-weight: bold;
+    cursor: pointer;
+}

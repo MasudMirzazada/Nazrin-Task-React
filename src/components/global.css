@@ -1,0 +1,40 @@
+.bgYellow{
+    background-color: #ba5f7b;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.bgYellow:hover{
+    background-color: #db0606;
+}
+.textYellow{
+    background-color: #d80000;
+}
+body{
+    background-color: rgb(125, 29, 29);
+}
+div,
+button{
+    color: rgb(246, 246, 246);
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(169, 94, 94); 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #70746e; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #a29e8d; 
+
+  }
